@@ -1,1 +1,1 @@
-This folder should contain all the symbols and footprints used in this repo.
+This folder should contain all the symbols used in this repo.
