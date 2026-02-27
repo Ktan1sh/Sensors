@@ -1,5 +1,0 @@
-"Reference","Value","Qty","DNP","MPN","Package","Description"
-"C1","10n","1","","","0603","Unpolarized capacitor"
-"J1","Conn_01x04","1","","","2.54 mm","Generic connector, single row, 01x04"
-"R1,R2","1K","2","","","0603","Resistor"
-"U1","MLX90632","1","","","5-SFN",""
